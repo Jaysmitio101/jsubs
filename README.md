@@ -1,2 +1,3 @@
-# jsubs
+# jsubs.jar
+
 Subtitle With Java
